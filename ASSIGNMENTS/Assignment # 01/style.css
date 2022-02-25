@@ -1,0 +1,27 @@
+
+
+        .left-box{
+            float: left;
+            height: auto;
+            width: 40%;
+        }
+
+        .right-box{
+            float: left;
+            height: auto;
+            width: 70%;
+        }
+
+        #book{
+            height: 300px;
+        }
+        
+        input{
+            height: 40px;
+            width: 120px;
+            font-weight: bolder;
+        }
+
+        button{
+            font-weight: bolder;
+        }
