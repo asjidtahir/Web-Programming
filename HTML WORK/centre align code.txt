@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title> Paragraph Example </title>
+   </head>
+	
+   <body>
+      <p align = "center"><i> <u>Here is a <del>first </del>paragraph of text. </u></i></p>
+   <pre>  <hr>  <center> <p><b>Here is a <sup>second </sup> <sub>paragraph</sub> of text.</b></p> </center> </hr> </pre>
+      <p align ="right"><hr>Here <big>is </big> <small>a</small><tt> third</tt> <strike>paragraph</strike> of <ins>text</ins>.</hr></p>
+    
+
+
+
+ </body>
+	
+</html>
